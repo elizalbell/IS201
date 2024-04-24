@@ -1,0 +1,71 @@
+h1{
+    color:white;
+}
+
+.header{
+    background-color: rgb(90, 149, 184);
+    height:100px;
+    line-height: 100px;
+}
+
+.mainbody{
+    background-color: whitesmoke;
+}
+
+.footer{ 
+    background-color: rgb(90, 149, 184);
+    color: white;
+    bottom:0px;
+    right:3px;
+    left:3px;
+    height: 35px;
+    font-size:15px;
+    line-height:30px;
+}
+
+.common{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    list-style-position: inside;
+    margin: auto;
+    width: 80%;
+
+}
+.common img {
+    display: block;
+    margin: auto;
+    width: 25%
+}
+
+nav a:hover{
+    background-color: #ccc;
+}
+
+nav{
+    background-color: lightgrey;
+    overflow: hidden;
+    height:25px;
+   
+}
+
+nav a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #333;
+    float:center; 
+    line-height:25px;
+}
+
+body {
+    text-align: center;
+}
+
+ul, ol {
+    padding-left: 0; 
+    margin: auto;
+}
+    
+.graph-container {
+    margin-left: 150px;
+    width: 80%;
+}
